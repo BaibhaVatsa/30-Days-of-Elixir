@@ -5,8 +5,8 @@ defmodule Day02 do
 		case n do
 			_ when n <= 0 -> 0
 			1             -> 0
-			2 						-> 1
-			_ 						-> fibonacci(n - 1) + fibonacci(n - 2)
+			2             -> 1
+			_             -> fibonacci(n - 1) + fibonacci(n - 2)
 		end
 	end
 end
