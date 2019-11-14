@@ -1,3 +1,7 @@
-# 30-Days-of-Elixir
+# 30 Days of [Elixir](https://elixir-lang.org/)
 
-My solutions to [seven1m/30-days-of-elixir](https://github.com/seven1m/30-days-of-elixir).
+Compilation of byte sized exercises to help your journey through Elixir
+
+> Progress: 0/30 (0%)
+
+ 
