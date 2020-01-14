@@ -1,6 +1,0 @@
-language: elixir
-deploy:
-	provider: script
-	script: bash test_compilation.sh
-	on:
-		branch: master
