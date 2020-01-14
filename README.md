@@ -6,7 +6,6 @@ Compilation of byte sized exercises to help your journey through Elixir
 
 [01 Hello World](./01_hello_world.ex) - Hello, World!
 
-[02 Fibonacci](./02_fibonacci.ex) - Fibonacci Sequence
+[02 Fibonacci](./02_fibonacci.ex) - nth Fibonacci Number
 
-[03 Calculator](./03_cli_calculator.ex) - CommandLine Calculator
-
+[03 Calculator](./03_cli_calculator.ex) - Commandline Calculator
